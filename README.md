@@ -1,4 +1,4 @@
-mbiente de testes — TCC
+Ambiente de testes — TCC
 
 Este documento contém os softwares necessários para preparar o computador que será utilizado nos experimentos do TCC.
 
