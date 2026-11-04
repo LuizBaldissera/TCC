@@ -1,0 +1,11 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Python,Rastrigin,Paralela,12,10,5000000,1,3888.741300,37.7235059634
+Python,Rastrigin,Paralela,12,10,5000000,2,3789.922000,37.7235059634
+Python,Rastrigin,Paralela,12,10,5000000,3,3772.159000,37.7235059634
+Python,Rastrigin,Paralela,12,10,5000000,4,3734.694000,37.7235059634
+Python,Rastrigin,Paralela,12,10,5000000,5,3769.278900,37.7235059634
+Python,Rastrigin,Paralela,12,10,20000000,1,18379.698700,37.7235059634
+Python,Rastrigin,Paralela,12,10,20000000,2,28399.793000,37.7235059634
+Python,Rastrigin,Paralela,12,10,20000000,3,28546.978200,37.7235059634
+Python,Rastrigin,Paralela,12,10,20000000,4,22100.535300,37.7235059634
+Python,Rastrigin,Paralela,12,10,20000000,5,18050.755500,37.7235059634

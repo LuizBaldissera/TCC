@@ -1,0 +1,11 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Julia,Rastrigin,Sequencial,1,10,5000000,1,788.974200,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,5000000,2,787.190100,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,5000000,3,795.259100,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,5000000,4,794.125300,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,5000000,5,794.569300,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,20000000,1,3347.965700,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,20000000,2,3375.845100,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,20000000,3,3290.182900,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,20000000,4,3261.539400,37.7235059634
+Julia,Rastrigin,Sequencial,1,10,20000000,5,3313.991900,37.7235059634

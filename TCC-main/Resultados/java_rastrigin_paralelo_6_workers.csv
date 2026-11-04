@@ -1,0 +1,11 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Java,Rastrigin,Paralela,6,10,5000000,1,100.069200,37.7235059634
+Java,Rastrigin,Paralela,6,10,5000000,2,91.649100,37.7235059634
+Java,Rastrigin,Paralela,6,10,5000000,3,82.914500,37.7235059634
+Java,Rastrigin,Paralela,6,10,5000000,4,93.717000,37.7235059634
+Java,Rastrigin,Paralela,6,10,5000000,5,97.375400,37.7235059634
+Java,Rastrigin,Paralela,6,10,20000000,1,337.779500,37.7235059634
+Java,Rastrigin,Paralela,6,10,20000000,2,345.913300,37.7235059634
+Java,Rastrigin,Paralela,6,10,20000000,3,356.130300,37.7235059634
+Java,Rastrigin,Paralela,6,10,20000000,4,345.414600,37.7235059634
+Java,Rastrigin,Paralela,6,10,20000000,5,287.659100,37.7235059634

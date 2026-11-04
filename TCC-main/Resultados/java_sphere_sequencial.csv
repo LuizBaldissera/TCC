@@ -1,0 +1,11 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Java,Sphere,Sequencial,1,10,5000000,1,43.258800,3.2680260898
+Java,Sphere,Sequencial,1,10,5000000,2,41.742800,3.2680260898
+Java,Sphere,Sequencial,1,10,5000000,3,42.483400,3.2680260898
+Java,Sphere,Sequencial,1,10,5000000,4,42.109000,3.2680260898
+Java,Sphere,Sequencial,1,10,5000000,5,42.660000,3.2680260898
+Java,Sphere,Sequencial,1,10,20000000,1,125.949600,3.1059831089
+Java,Sphere,Sequencial,1,10,20000000,2,125.538300,3.1059831089
+Java,Sphere,Sequencial,1,10,20000000,3,125.474200,3.1059831089
+Java,Sphere,Sequencial,1,10,20000000,4,125.024900,3.1059831089
+Java,Sphere,Sequencial,1,10,20000000,5,125.583900,3.1059831089

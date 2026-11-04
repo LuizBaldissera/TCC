@@ -1,0 +1,11 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Julia,Rastrigin,Paralela,12,10,5000000,1,122.555500,37.7235059634
+Julia,Rastrigin,Paralela,12,10,5000000,2,262.971100,37.7235059634
+Julia,Rastrigin,Paralela,12,10,5000000,3,118.376600,37.7235059634
+Julia,Rastrigin,Paralela,12,10,5000000,4,125.051300,37.7235059634
+Julia,Rastrigin,Paralela,12,10,5000000,5,138.654900,37.7235059634
+Julia,Rastrigin,Paralela,12,10,20000000,1,1017.600700,37.7235059634
+Julia,Rastrigin,Paralela,12,10,20000000,2,504.612200,37.7235059634
+Julia,Rastrigin,Paralela,12,10,20000000,3,618.785700,37.7235059634
+Julia,Rastrigin,Paralela,12,10,20000000,4,571.040900,37.7235059634
+Julia,Rastrigin,Paralela,12,10,20000000,5,522.745400,37.7235059634

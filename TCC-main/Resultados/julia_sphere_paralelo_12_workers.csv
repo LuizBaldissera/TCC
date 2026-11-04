@@ -1,0 +1,11 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Julia,Sphere,Paralela,12,10,5000000,1,59.676600,3.2680260898
+Julia,Sphere,Paralela,12,10,5000000,2,63.247100,3.2680260898
+Julia,Sphere,Paralela,12,10,5000000,3,63.239700,3.2680260898
+Julia,Sphere,Paralela,12,10,5000000,4,83.792000,3.2680260898
+Julia,Sphere,Paralela,12,10,5000000,5,74.328600,3.2680260898
+Julia,Sphere,Paralela,12,10,20000000,1,657.125900,3.1059831089
+Julia,Sphere,Paralela,12,10,20000000,2,262.392100,3.1059831089
+Julia,Sphere,Paralela,12,10,20000000,3,769.381800,3.1059831089
+Julia,Sphere,Paralela,12,10,20000000,4,307.977000,3.1059831089
+Julia,Sphere,Paralela,12,10,20000000,5,270.740700,3.1059831089
