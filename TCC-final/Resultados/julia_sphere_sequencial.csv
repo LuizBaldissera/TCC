@@ -1,0 +1,16 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Julia,Sphere,Sequencial,1,10,5000000,1,49.977600,3.2680260898
+Julia,Sphere,Sequencial,1,10,5000000,2,53.951200,3.2680260898
+Julia,Sphere,Sequencial,1,10,5000000,3,53.683500,3.2680260898
+Julia,Sphere,Sequencial,1,10,5000000,4,52.708600,3.2680260898
+Julia,Sphere,Sequencial,1,10,5000000,5,53.948100,3.2680260898
+Julia,Sphere,Sequencial,1,10,15000000,1,156.047200,3.1059831089
+Julia,Sphere,Sequencial,1,10,15000000,2,157.585900,3.1059831089
+Julia,Sphere,Sequencial,1,10,15000000,3,171.364800,3.1059831089
+Julia,Sphere,Sequencial,1,10,15000000,4,230.696800,3.1059831089
+Julia,Sphere,Sequencial,1,10,15000000,5,261.405300,3.1059831089
+Julia,Sphere,Sequencial,1,10,40000000,1,702.266600,2.0444751063
+Julia,Sphere,Sequencial,1,10,40000000,2,686.860600,2.0444751063
+Julia,Sphere,Sequencial,1,10,40000000,3,628.633500,2.0444751063
+Julia,Sphere,Sequencial,1,10,40000000,4,621.739400,2.0444751063
+Julia,Sphere,Sequencial,1,10,40000000,5,621.750300,2.0444751063

@@ -1,0 +1,16 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Python,Rastrigin,Sequencial,1,10,5000000,1,4627.952300,37.7235059634
+Python,Rastrigin,Sequencial,1,10,5000000,2,4567.953000,37.7235059634
+Python,Rastrigin,Sequencial,1,10,5000000,3,4624.873300,37.7235059634
+Python,Rastrigin,Sequencial,1,10,5000000,4,4597.836200,37.7235059634
+Python,Rastrigin,Sequencial,1,10,5000000,5,4588.746600,37.7235059634
+Python,Rastrigin,Sequencial,1,10,15000000,1,13933.461400,37.7235059634
+Python,Rastrigin,Sequencial,1,10,15000000,2,13736.045800,37.7235059634
+Python,Rastrigin,Sequencial,1,10,15000000,3,13798.134800,37.7235059634
+Python,Rastrigin,Sequencial,1,10,15000000,4,13841.930900,37.7235059634
+Python,Rastrigin,Sequencial,1,10,15000000,5,13683.553000,37.7235059634
+Python,Rastrigin,Sequencial,1,10,40000000,1,72888.615200,28.9643937880
+Python,Rastrigin,Sequencial,1,10,40000000,2,72866.176400,28.9643937880
+Python,Rastrigin,Sequencial,1,10,40000000,3,73856.277000,28.9643937880
+Python,Rastrigin,Sequencial,1,10,40000000,4,73347.492400,28.9643937880
+Python,Rastrigin,Sequencial,1,10,40000000,5,61860.650000,28.9643937880

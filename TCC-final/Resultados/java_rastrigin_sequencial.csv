@@ -1,0 +1,16 @@
+linguagem,funcao,modo,workers,dimensoes,amostras,execucao,tempo_ms,melhor_valor
+Java,Rastrigin,Sequencial,1,10,5000000,1,352.167800,37.7235059634
+Java,Rastrigin,Sequencial,1,10,5000000,2,370.955900,37.7235059634
+Java,Rastrigin,Sequencial,1,10,5000000,3,362.266700,37.7235059634
+Java,Rastrigin,Sequencial,1,10,5000000,4,349.142400,37.7235059634
+Java,Rastrigin,Sequencial,1,10,5000000,5,369.732900,37.7235059634
+Java,Rastrigin,Sequencial,1,10,15000000,1,980.505200,37.7235059634
+Java,Rastrigin,Sequencial,1,10,15000000,2,963.625000,37.7235059634
+Java,Rastrigin,Sequencial,1,10,15000000,3,955.678900,37.7235059634
+Java,Rastrigin,Sequencial,1,10,15000000,4,986.273300,37.7235059634
+Java,Rastrigin,Sequencial,1,10,15000000,5,946.895900,37.7235059634
+Java,Rastrigin,Sequencial,1,10,40000000,1,2514.895600,28.9643937880
+Java,Rastrigin,Sequencial,1,10,40000000,2,2514.966300,28.9643937880
+Java,Rastrigin,Sequencial,1,10,40000000,3,2520.401200,28.9643937880
+Java,Rastrigin,Sequencial,1,10,40000000,4,2563.262800,28.9643937880
+Java,Rastrigin,Sequencial,1,10,40000000,5,2549.551900,28.9643937880
